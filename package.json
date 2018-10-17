@@ -1,0 +1,12 @@
+{
+  "name": "unit-testing-examples",
+  "version": "1.0.0",
+  "main": "TodoList.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
